@@ -1,0 +1,42 @@
+img {
+
+width: 280px;
+height: 250px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    color: ;
+    background-color: #2F4F4F;
+   
+  
+
+     
+}
+
+body {
+
+    background-color: #2F4F4F; 
+     
+}
+
+.texto {
+    font-size: 30px ; 
+    display:table table-cell; 
+    color: white;
+    text-align: center;
+    float: left;
+    width: 800PX;
+    margin-top: -20PX;
+    
+    
+}
+
+
+   
+    
+
+
+
